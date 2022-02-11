@@ -1,0 +1,8 @@
+划分比例    6：2：2
+
+病害	     总数	  train   eval  test
+ChongHai  ：468     282：   93： 93
+HeBan       ：503      302： 101：101
+YeKu          ：92       56：     18 ：18
+
+okok99dd
